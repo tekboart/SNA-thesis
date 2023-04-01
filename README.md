@@ -56,12 +56,12 @@ This research encompasses several steps as follows:
 1. Scraping the information of a professor from [irandoc](irandoc.ir).
 1. Conducting Exploratory Data Analysis (EDA) on the crawled data.
 1. Cleaning the data.
-  > e.g., cleaning: the kewords and titles, unsupported characters, duplicate records, etc.
+    > e.g., cleaning: the kewords and titles, unsupported characters, duplicate records, etc.
 1. Converting data into an Adjacency matrix.
 1. Converting the Adjacency matrix into a graph (using igraph).
 1. Analyzing and visualizing the network by calculating different centrality measures.
 1. Doing community detection (CD) to clustering theses into similar groups.
-  > CD methods: i.e., Label Propagation, Eigenvector, Infomap, and Components
+    > CD methods: i.e., Label Propagation, Eigenvector, Infomap, and Components
 
 ## Requirements
 ![Python](https://img.shields.io/badge/Python-==_3.9.10-396D99.svg)
