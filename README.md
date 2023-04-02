@@ -48,7 +48,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-svg?style=flat&color=150458&logo=pandas&logoColor=white&labelColor=gray)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-svg?style=flat&color=65BAEA&label=&logoColor=white&labelColor=gray)
 ![seaborn](https://img.shields.io/badge/seaborn-svg?style=flat&color=79AAB6&label=&logoColor=white&labelColor=gray)
-![DGL](https://img.shields.io/badge/Deep_Graph_Library-svg?style=flat&color=359BF0&label=DGL&logo=dgl&logoColor=white&labelColor=gray)
 
 This repository contains the code (and a sample of data) of a research project in the field of Social Network Analysis (SNA). We used `requests` module (in Python) to scrape the information of theses, supervised by a certain university professor, then use SNA to analyze different aspects of research done by that professor.
 
